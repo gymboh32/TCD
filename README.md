@@ -1,5 +1,5 @@
 # TCD
-Termoelectric Cryotherapy Device used to quickly, safely, and consistently cool sections of the body.
+Thermoelectric Cryotherapy Device used to quickly, safely, and consistently cool sections of the body.
 
 Theoretically if multiple devices were to be strategically placed over the human body ones body temperature could be
 slightly reduced.  This could be beneficial in lowering a patients overall body temperature in the cases of severe fever or
